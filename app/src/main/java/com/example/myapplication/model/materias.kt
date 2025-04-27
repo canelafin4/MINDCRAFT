@@ -10,3 +10,5 @@ data class Materias(
     val pesoDosCritérios: String,
     val soma: Int
 )
+
+annotation class PrimaryKey(val autoGenerate: Boolean)

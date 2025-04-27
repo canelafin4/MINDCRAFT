@@ -9,3 +9,4 @@ data class Anotacao(
     val tituloAnotacao: String,
     val texto: String
 )
+
